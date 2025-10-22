@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;      /* Police générale de la page */
+    margin: 0;                           /* Supprime la marge par défaut */
+    padding: 0;                          /* Supprime le padding par défaut */
+    background-color: #f4f4f9;           /* Couleur de fond douce */
+    color: #333;                         /* Couleur du texte */
+    line-height: 1.6;                    /* Espacement des lignes pour une meilleure lisibilité */
+
+}
